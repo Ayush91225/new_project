@@ -1,0 +1,39 @@
+body {
+  min-height: 100vh;
+  transition: all 0.3s ease;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+body.dark {
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+body.dark h1,
+body.dark h2,
+body.dark h3,
+body.dark p {
+  color: #ffffff;
+}
+
+body.dark a {
+  color: #ffffff;
+}
+
+body.light h1,
+body.light h2,
+body.light h3,
+body.light p {
+  color: #000000;
+}
+
+body.light a {
+  color: #000000;
+}
