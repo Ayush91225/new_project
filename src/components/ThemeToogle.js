@@ -11,6 +11,7 @@ export default function ThemeToggle() {
 
   useEffect(() => {
     document.body.className = isDarkMode ? 'dark' : 'light';
+    
   }, [isDarkMode]);
 
   return (

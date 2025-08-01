@@ -10,6 +10,7 @@ function Navbar() {
       position: 'relative'
     }}>
       <div style={{
+        
         display: 'flex',
         gap: '2rem',
         alignItems: 'center'

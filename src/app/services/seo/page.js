@@ -6,6 +6,7 @@ function SEO() {
       <h1 style={{margin: '20px'}}>SEO Services</h1>
       <p style={{fontSize: '18px', color: '#666'}}>Search Engine Optimization services to improve your website&apos;s visibility</p>
     </div>
+    
   )
 }
 

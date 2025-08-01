@@ -9,6 +9,7 @@ function HamburgerMenu() {
   return (
     <>
       <button 
+      
         onClick={() => setIsOpen(!isOpen)}
         style={{
           display: 'none',

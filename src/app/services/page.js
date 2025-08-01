@@ -11,6 +11,7 @@ function page() {
                 </Link>
                 <Link href="/services/seo">
                     SEO
+                    
                 </Link>
                 <Link href="/services/consulting">
                     Consulting

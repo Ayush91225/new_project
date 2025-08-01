@@ -7,6 +7,7 @@ function Consulting() {
       <p style={{fontSize: '18px', color: '#666'}}>Professional consulting services for your business needs</p>
     </div>
   )
+  
 }
 
 export default Consulting
